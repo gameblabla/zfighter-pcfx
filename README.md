@@ -1,7 +1,13 @@
 # Z-Fighter
 
+![titlescreen](https://github.com/gameblabla/zfighter-pcfx/blob/main/screenshots/gamer_shot_1914.png?raw=true)
 
-Z-Fighter is a 3D shmup for the NEC PC-FX by yourse truly gameblabla.
+![level3](https://github.com/gameblabla/zfighter-pcfx/blob/main/screenshots/gamer_shot_3521.png?raw=true)
+![level2](https://github.com/gameblabla/zfighter-pcfx/blob/main/screenshots/gamer_shot_3391.png?raw=true)
+![brief](https://github.com/gameblabla/zfighter-pcfx/blob/main/screenshots/gamer_shot_2849.png?raw=true)
+
+
+Z-Fighter is a 3D shmup Homebrew Game for the NEC PC-FX by yours truly gameblabla.
 
 It features 6 levels with 3D texture-mapped polygons and LOD system (both flat shaded and sprite LOD), 
 some bosses can have more than 300 triangles on scree at 15 FPS during gameplay,
@@ -14,3 +20,5 @@ Space terrorists have taken over the moon and many other locations, and Aya took
 Do you have what it takes to go through this game ?
 
 Find out in Z-Fighter !
+
+(Note, LLMs were extensively used for the development for this game)
